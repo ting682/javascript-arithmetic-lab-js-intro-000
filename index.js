@@ -1,3 +1,3 @@
-add()
-subtract()
-multiple()
+function add(one,two){
+  return one + two;
+}
