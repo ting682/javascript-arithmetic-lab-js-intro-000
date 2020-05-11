@@ -1,1 +1,3 @@
-add();
+add()
+subtract()
+multiple()
